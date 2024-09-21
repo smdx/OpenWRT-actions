@@ -65,10 +65,10 @@ rm -rf feeds/luci/applications/luci-app-udpxy/po
 cp -rf ${GITHUB_WORKSPACE}/patch/luci-app-udpxy/po feeds/luci/applications/luci-app-udpxy/po
 
 # lukcy大吉
-git clone https://github.com/sirpdboy/luci-app-lucky package/lucky-packages
+# git clone https://github.com/sirpdboy/luci-app-lucky package/lucky-packages
 
 # 集客AC控制器
-git clone -b v1.0 https://github.com/lwb1978/openwrt-gecoosac package/openwrt-gecoosac
+# git clone -b v1.0 https://github.com/lwb1978/openwrt-gecoosac package/openwrt-gecoosac
 
 # 添加主题
 rm -rf feeds/luci/themes/luci-theme-argon
