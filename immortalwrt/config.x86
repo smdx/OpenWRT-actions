@@ -6454,6 +6454,7 @@ CONFIG_PACKAGE_luci-i18n-passwall-zh-cn=y
 # CONFIG_PACKAGE_luci-i18n-samba4-vi is not set
 CONFIG_PACKAGE_luci-i18n-samba4-zh-cn=y
 # CONFIG_PACKAGE_luci-i18n-samba4-zh-tw is not set
+CONFIG_PACKAGE_luci-i18n-mosdns-zh-cn=y
 # CONFIG_PACKAGE_luci-i18n-smartdns-de is not set
 # CONFIG_PACKAGE_luci-i18n-smartdns-es is not set
 CONFIG_PACKAGE_luci-i18n-smartdns-zh-cn=y
@@ -8537,7 +8538,7 @@ CONFIG_PACKAGE_dmesg=y
 # CONFIG_PACKAGE_eza is not set
 # CONFIG_PACKAGE_fbtest is not set
 # CONFIG_PACKAGE_fdt-utils is not set
-CONFIG_PACKAGE_file=y
+# CONFIG_PACKAGE_file is not set
 # CONFIG_PACKAGE_filebrowser is not set
 # CONFIG_PACKAGE_findutils is not set
 # CONFIG_PACKAGE_findutils-find is not set
@@ -8614,7 +8615,7 @@ CONFIG_PACKAGE_lm-sensors=y
 # CONFIG_PACKAGE_lolcat is not set
 # CONFIG_PACKAGE_look is not set
 # CONFIG_PACKAGE_losetup is not set
-CONFIG_PACKAGE_lrzsz=y
+$ CONFIG_PACKAGE_lrzsz is not set
 CONFIG_PACKAGE_lscpu=y
 # CONFIG_PACKAGE_lsd is not set
 # CONFIG_PACKAGE_lslocks is not set
